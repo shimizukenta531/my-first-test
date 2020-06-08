@@ -34,7 +34,7 @@ six==1.15.0
 soupsieve==2.0.1
 sqlparse==0.3.1
 tensorboard==2.0.2
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 tflite-runtime==2.1.0.post1
